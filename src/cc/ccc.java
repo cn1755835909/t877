@@ -4,7 +4,7 @@ public class ccc {
 	
 	private void mian() {
 		// TODO Auto-generated method stub
-		System.out.println("�ύ");
+		System.out.println("提交");
 	}
 
 }

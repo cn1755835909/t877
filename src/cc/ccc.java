@@ -2,11 +2,9 @@ package cc;
 
 public class ccc {
 	
-	private void mian() {
-		// TODO Auto-generated method stub
-		System.out.println("提交");
-		System.out.println("第二次提交");
-		System.out.println("向本地提交");
+	public static void main(String[] args) {
+		
+		System.out.println("修改提交");
 	}
 
 }
